@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color:  red;
+    height: 10vh;
+}
+
+main{
+    background-color: yellowgreen;
+    height: 80vh;
+}
+
+footer{
+    background-color: aquamarine;
+    height: 80vh;
+}
